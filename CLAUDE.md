@@ -214,3 +214,14 @@ The agent operates in **draft → student review → approval** cycles:
 - Never omit mandatory elements without alerting the student
 - Always indicate when a content decision must be made by the student or advisor
 - When identifying a norm inconsistency, point out the problem and propose the correction — never silently correct scientific content
+
+---
+
+## Research Context
+
+> Esta seção foi gerada pelo `/init`. Para atualizar, execute `/init` novamente.
+
+- **Tema:** Proposta de ontologia para integração de dados de pedidos de acesso à informação pública baseada no portal FalaBR e na Lei de Acesso à Informação
+- **Área:** Gestão da Informação (Ciência da Informação / Sistemas de Informação) — UFPR
+- **Problema(s):** A LAI estabelece diretrizes, prazos e procedimentos gerais para pedidos de acesso à informação, mas não cria um processo operacional padronizado nem um sistema integrado único para solicitação, gestão e monitoramento entre todos os órgãos públicos. Como resultado, persistem heterogeneidade de processos, inconsistência de dados, dificuldades de acompanhamento de indicadores (concessões, negativas, prazos, recursos) e limitações de interoperabilidade entre sistemas.
+- **Abordagem:** Combinação de revisão bibliográfica/sistemática (ontologias existentes na área de governo aberto e transparência) + análise documental (LAI, decretos regulamentadores e dados do FalaBR) + prova de conceito (construção e validação da ontologia proposta)
