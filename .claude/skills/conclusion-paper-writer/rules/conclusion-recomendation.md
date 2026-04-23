@@ -64,3 +64,15 @@ The conclusion must align perfectly with:
 - **Chapter 4** (Data Analysis) — drawing only from what was found there
 
 If there is misalignment, revisit the previous chapters before finalizing the conclusion.
+
+---
+
+## Institution-Specific Overrides
+
+> Applied by `/format` on 2026-04-19. Source: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi, 2018)
+
+- Direct citation >3 lines: font size 10, 4 cm left indent, single spacing, no quotes *(overrides "uniform smaller font")*
+- Chapter title style: **bold + uppercase** (e.g., **5 CONCLUSÕES E RECOMENDAÇÕES**)
+- Corporate entity citations: begin with jurisdiction — "BRASIL. Ministério..." / "CURITIBA. Prefeitura..."
+- Same author, same year: differentiate with lowercase letters (AUTOR, 1994a, 1994b)
+- Translated citations: add "tradução nossa" in parentheses

@@ -78,3 +78,19 @@ Since articles have page limits, you may present all methodology content in a si
 - Do NOT omit how the instrument was constructed or validated
 - Do NOT confuse population with sample
 - Do NOT present the methodology without connecting it to the research objectives
+
+---
+
+## Institution-Specific Overrides
+
+> Applied by `/format` on 2026-04-19. Source: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi, 2018)
+
+- Direct citation >3 lines: font size 10, 4 cm left indent, single spacing, no quotes *(overrides "uniform smaller font")*
+- Corporate entity citations: begin with jurisdiction — "BRASIL. Ministério do Trabalho" / "CURITIBA. Prefeitura Municipal"
+- Same author, same year: differentiate with lowercase letters (TAVARES, 1994a, 1994b)
+- First use of acronym/sigla: write full name followed by acronym in parentheses
+- Verbal information: add "Informação verbal" in parentheses; data in footnote
+- Translated citations: add "tradução nossa" in parentheses
+- Quadros title: above, font size 10, centered, single spacing; source below font size 10
+- Tables title: above, font size 10, left-aligned to table, single spacing; source/notes below font size 10
+- Tables spanning pages: use labels (continua)/(continuação)/(conclusão)

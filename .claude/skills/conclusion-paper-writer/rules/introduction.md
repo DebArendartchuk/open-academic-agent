@@ -64,3 +64,20 @@ c) [verb + specific objective 3]
 - Do NOT forget the three dimensions of justification
 - Do NOT present data or results in the introduction
 - Do NOT use more than 5 specific objectives
+
+---
+
+## Institution-Specific Overrides
+
+> Applied by `/format` on 2026-04-19. Source: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi, 2018)
+
+- Section title style — primary (1, 2, 3): **bold + uppercase** (e.g., **1 INTRODUÇÃO**) *(ABNT: "destaque progressivo" not specified)*
+- Section title style — secondary (1.1, 1.2): uppercase, no bold (e.g., 1.1 CONTEXTO E PROBLEMA)
+- Section title style — tertiary (1.1.1+): mixed case, no bold (e.g., 1.2.1 Objetivo Geral)
+- Primary sections always start on a new page; 1 blank line (1.5 spacing) before and after each section title
+- Direct citation >3 lines: font size 10, 4 cm left indent, single spacing, no quotes *(overrides "uniform smaller font")*
+- Corporate entity citations: begin with jurisdiction — "BRASIL. Ministério do Trabalho" / "CURITIBA. Prefeitura Municipal"
+- Same author, same year: differentiate with lowercase letters (TAVARES, 1994a, 1994b)
+- First use of acronym/sigla: write full name followed by acronym in parentheses
+- Verbal information (palestra, entrevista): add "Informação verbal" in parentheses; data in footnote
+- Translated citations: add "tradução nossa" in parentheses

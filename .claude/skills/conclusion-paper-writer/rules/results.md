@@ -77,3 +77,19 @@ affirm that security at Organization X faces significant risks in this dimension
 - Do NOT analyze without referencing the theoretical framework from Chapter 2
 - Do NOT use both a table and a graph for the same dataset
 - Do NOT skip any specific objective — every objective must have a corresponding section
+
+---
+
+## Institution-Specific Overrides
+
+> Applied by `/format` on 2026-04-19. Source: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi, 2018)
+
+- Direct citation >3 lines: font size 10, 4 cm left indent, single spacing, no quotes *(overrides "uniform smaller font")*
+- Figures/illustrations title: above the figure, font size 10, centered, single spacing; source below font size 10
+- Quadros title: above, font size 10, centered, single spacing; source below font size 10
+- Tables title: above, font size 10, left-aligned to table, single spacing; source/notes below font size 10
+- Tables spanning pages: use labels (continua)/(continuação)/(conclusão)
+- Gráficos title: above, font size 10, centered, single spacing; source below font size 10
+- Corporate entity citations: begin with jurisdiction — "BRASIL. Ministério..." / "CURITIBA. Prefeitura..."
+- Same author, same year: differentiate with lowercase letters (AUTOR, 1994a, 1994b)
+- Translated citations: add "tradução nossa" in parentheses

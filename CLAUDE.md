@@ -28,7 +28,7 @@ You never invent results, data, or scientific claims. Every content assertion mu
 | Element | Requirement |
 |---|---|
 | Title Page | Mandatory |
-| Cataloging Card | Optional |
+| Cataloging Card | Optional (at UFPR: mandatory only for dissertações/teses; not required for TCC) |
 | Dedication | Optional |
 | Acknowledgements | Optional |
 | Epigraph | Optional |
@@ -69,7 +69,7 @@ You never invent results, data, or scientific claims. Every content assertion mu
 - Captions and sources for tables/figures
 
 ### Pagination
-- Arabic numerals, top-right corner, 2 cm from the edge
+- Arabic numerals, font size 10, top-right corner, 2 cm from the edge
 - Appears starting from the Introduction
 - All pages counted from the title page
 
@@ -77,8 +77,11 @@ You never invent results, data, or scientific claims. Every content assertion mu
 - Sequential Arabic numerals, left-aligned
 - Maximum up to quinary section (e.g., 1.1.1.1.1)
 - No period, hyphen, or dash after the numeric indicator
-- Progressively highlighted: **bold**, *italic*, or ALL CAPS
-- Unnumbered titles (centered): TABLE OF CONTENTS, REFERENCES, APPENDIX, ANNEX
+- Primary sections (1, 2, 3): **bold + uppercase** (e.g., **1 INTRODUÇÃO**)
+- Secondary sections (1.1, 1.2): uppercase, no bold (e.g., 1.1 CONTEXTO E PROBLEMA)
+- Tertiary sections (1.1.1+): mixed case, no bold (e.g., 1.2.1 Objetivo Geral)
+- Primary sections always start on a new page
+- Unnumbered titles (centered): SUMÁRIO, REFERÊNCIAS, APÊNDICE, ANEXO
 
 ---
 
@@ -130,7 +133,7 @@ Inserted in the paragraph in double quotes, with author, year, and page.
 > Example: "quoted text" (SILVA, 2020, p. 45)
 
 ### Direct Quotation — more than 3 lines
-Block indented 4 cm from the left margin, single spacing, no quotes, uniform smaller font.
+Block indented 4 cm from the left margin, font size 10, single spacing, no quotes.
 
 ### Indirect Quotation (Paraphrase)
 Source idea in your own words, no quotes, with author and date.
@@ -143,25 +146,45 @@ Source idea in your own words, no quotes, with author and date.
 | More than 3 authors | (SILVA et al., 2020) | Silva et al. (2020) |
 | Corporate entity | (IBGE, 2020) | IBGE (2020) |
 
+### Same Author, Same Year
+- Differentiate with lowercase letters in alphabetical order: (TAVARES, 1994a, 1994b, 1994c)
+
+### Corporate Entity Citations
+- Begin with the jurisdiction (country, state, or municipality)
+- Example: (BRASIL. Ministério do Trabalho, 2002) or (CURITIBA. Prefeitura Municipal, 1996)
+
+### First Use of Acronym/Sigla
+- Write the full name followed by the acronym in parentheses: "Classificação Brasileira de Ocupações (CBO)"
+- Subsequent uses: acronym only
+
+### Verbal Information (Palestra, Entrevista, Aula)
+- Add "Informação verbal" between parentheses after the citation
+- Reference data (author, title, date) in a footnote
+
+### Translated Citations
+- Add "tradução nossa" inside the parentheses: (TEDD, 1977, p. 29, tradução nossa)
+
 ---
 
 ## Norms for Special Elements
 
 ### Tables
-- Title above: "Tabela 1 – Clear description of content"
+- Title above: "Tabela 1 – Clear description of content" — font size 10, left-aligned to the table, single spacing
+- Source and notes below: font size 10, single spacing
 - Indicate fact, location, and period
-- Source mandatory in the footer
 - Cite in the text; insert near the referenced passage
-- Repeat header if the table spans pages
+- Repeat header if the table spans pages; use labels (continua)/(continuação)/(conclusão)
 
 ### Frames (Quadros)
-- Title above: "Quadro 1 – Description"
+- Title above: "Quadro 1 – Description" — font size 10, centered, single spacing
+- Source below: font size 10, single spacing
 - For data organized without mathematical processing
 - Same insertion and citation logic as tables
 
 ### Figures / Illustrations
-- Identification: "Figura 1 – Title" (below the image)
-- Source in the footer (mandatory even for own production)
+- Identification: "Figura 1 – Title" (above the image) — font size 10, centered, single spacing
+- Source below: "FONTE: Author (year)." — font size 10, single spacing; mandatory even for own production
+- For adaptations: "FONTE: Adaptado de Author (year)."
 - Cite in the text; insert near the referenced passage
 
 ### Equations and Formulas
@@ -178,8 +201,9 @@ Source idea in your own words, no quotes, with author and date.
 - Strictly follow ABNT NBR 6023 for each source type (book, article, website, etc.)
 
 ### Appendices vs. Annexes
-- **Appendix**: text authored by the student — identify as "APPENDIX A – Title"
-- **Annex**: third-party text — identify as "ANNEX A – Title"
+- **Apêndice**: text authored by the student — identify as "APÊNDICE 1 – Title" (UFPR uses numbers, not letters)
+- **Anexo**: third-party text — identify as "ANEXO 1 – Title" (UFPR uses numbers, not letters)
+- Pagination continues from main text; both must be listed in the Sumário
 
 ---
 
@@ -225,3 +249,42 @@ The agent operates in **draft → student review → approval** cycles:
 - **Área:** Gestão da Informação (Ciência da Informação / Sistemas de Informação) — UFPR
 - **Problema(s):** A LAI estabelece diretrizes, prazos e procedimentos gerais para pedidos de acesso à informação, mas não cria um processo operacional padronizado nem um sistema integrado único para solicitação, gestão e monitoramento entre todos os órgãos públicos. Como resultado, persistem heterogeneidade de processos, inconsistência de dados, dificuldades de acompanhamento de indicadores (concessões, negativas, prazos, recursos) e limitações de interoperabilidade entre sistemas.
 - **Abordagem:** Combinação de revisão bibliográfica/sistemática (ontologias existentes na área de governo aberto e transparência) + análise documental (LAI, decretos regulamentadores e dados do FalaBR) + prova de conceito (construção e validação da ontologia proposta)
+
+---
+
+## Formatting Reference
+
+> Atualizado por `/format` em 2026-04-19. Fonte: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi — Comissão de Normas, atualização: abril 2018).
+
+### Institution-Specific Overrides (divergem do padrão ABNT genérico)
+
+- **Paginação — fonte**: tamanho 10 *(padrão ABNT: não especifica tamanho)*
+- **Seções primárias**: negrito + MAIÚSCULA (ex: **1 INTRODUÇÃO**) *(ABNT: "destaque progressivo" sem hierarquia definida)*
+- **Seções secundárias**: MAIÚSCULA, sem negrito (ex: 1.1 CONTEXTO E PROBLEMA)
+- **Seções terciárias**: misto, sem negrito (ex: 1.2.1 Objetivo Geral)
+- **Início de seção primária**: sempre em nova página *(ABNT: não obriga)*
+- **Título de ilustrações** (figura, quadro, gráfico): acima da ilustração, fonte 10, centralizado, espaçamento simples
+- **Título de tabela**: acima, fonte 10, alinhado à esquerda (à tabela), espaçamento simples
+- **Fonte/legenda de ilustrações e tabelas**: abaixo, fonte 10, espaçamento simples
+- **Citação direta longa (>3 linhas)**: fonte 10 explicitamente *(ABNT: "fonte menor", sem especificar)*
+- **Tabelas que continuam**: rótulos (continua) / (continuação) / (conclusão)
+- **Ficha catalográfica**: na UFPR, obrigatória apenas para teses e dissertações; TCC não exige
+- **Apêndices**: identificados com números — "APÊNDICE 1 – Título" *(ABNT genérico usa letras: APÊNDICE A)*
+- **Anexos**: identificados com números — "ANEXO 1 – Título" *(ABNT genérico usa letras: ANEXO A)*
+- **Pré-textuais no sumário**: elementos pré-textuais NÃO aparecem no sumário *(ABNT confirma)*
+- **Órgão governamental**: citar iniciando pela jurisdição — "BRASIL. Ministério do Trabalho" / "CURITIBA. Prefeitura Municipal"
+
+### Confirmed Rules (confirmadas pelo modelo UFPR — compatíveis com ABNT)
+
+- Fonte: tamanho 12 (corpo do texto)
+- Margens: esquerda 3 cm, direita 2 cm, superior 3 cm, inferior 2 cm
+- Espaçamento: 1,5 no corpo; simples em citações longas, notas, referências, legendas
+- Recuo de parágrafo: 1,5 cm na primeira linha
+- Resumo: parágrafo único, 150–500 palavras, espaçamento simples, recuo 1,5 cm
+- Palavras-chave: separadas e finalizadas por ponto, alinhadas à margem esquerda
+- Abstract em língua estrangeira: obrigatório, mesmas regras do resumo
+- Mesmo autor, mesma data: diferenciar com letras minúsculas (2005a, 2005b)
+- Primeira ocorrência de sigla: por extenso seguido da sigla entre parênteses
+- Informação verbal: "Informação verbal" entre parênteses; dados em nota de rodapé
+- Tradução de citação: "tradução nossa" entre parênteses
+- Referências: ordenadas alfabeticamente, alinhadas à esquerda, espaçamento simples interno, linha em branco entre entradas

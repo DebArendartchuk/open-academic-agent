@@ -13,7 +13,7 @@ The abstract must cover these four elements — and ONLY these:
 ## Format Rules
 - Written as a **single paragraph** (no indented line breaks between ideas)
 - **Line spacing**: single (1.0)
-- **Word count**: minimum 150, maximum 250 words (for articles/TCCs)
+- **Word count**: minimum 150, maximum 500 words
 - Font size must match the body text (e.g., Times New Roman 12)
 - The title "RESUMO" must be in **bold**
 - No citations or references inside the abstract
@@ -45,4 +45,17 @@ Palavras-chave: Word1. Word2. Word3.
 - Do NOT use bullet points or numbered lists
 - Do NOT break into multiple paragraphs
 - Do NOT include tables or figures
-- Do NOT go beyond 250 words or under 150 words
+- Do NOT go beyond 500 words or under 150 words
+
+---
+
+## Institution-Specific Overrides
+
+> Applied by `/format` on 2026-04-19. Source: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi, 2018)
+
+- Word count: 150–500 words *(overrides previous rule of 150–250)*
+- Title "RESUMO": font 12, uppercase, bold, centered, 1.5 spacing
+- Text formatting: font 12, justified, 1.5 cm first-line indent, single spacing
+- 1 blank line (1.5 spacing) before text and after text
+- Keywords ("Palavras-chave:"): font 12, single spacing, left-aligned to margin; terms separated and terminated by periods
+- Abstract in foreign language (ABSTRACT): mandatory, same formatting rules as Resumo

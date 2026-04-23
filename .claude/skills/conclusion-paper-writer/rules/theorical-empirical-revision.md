@@ -73,3 +73,19 @@ The topics (theoretical pillars) must correspond directly to the specific object
 - Do NOT ignore opposing theoretical positions
 - Do NOT forget proper citations for all referenced ideas
 - Do NOT write this chapter as a "filler" — every section must have research utility
+
+---
+
+## Institution-Specific Overrides
+
+> Applied by `/format` on 2026-04-19. Source: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi, 2018)
+
+- Direct citation >3 lines: font size 10, 4 cm left indent, single spacing, no quotes *(overrides "uniform smaller font")*
+- Corporate entity citations: begin with jurisdiction — "BRASIL. Ministério do Trabalho" / "CURITIBA. Prefeitura Municipal"
+- Same author, same year: differentiate with lowercase letters (TAVARES, 1994a, 1994b)
+- First use of acronym/sigla: write full name followed by acronym in parentheses
+- Verbal information (palestra, entrevista, aula): add "Informação verbal" in parentheses; data in footnote
+- Translated citations: add "tradução nossa" in parentheses
+- Foreign language words/expressions: in italics (e.g., *gap*, *framework*)
+- Figures/illustrations title: above the figure, font size 10, centered, single spacing; source below font size 10
+- Quadros title: above, font size 10, centered, single spacing; source below font size 10

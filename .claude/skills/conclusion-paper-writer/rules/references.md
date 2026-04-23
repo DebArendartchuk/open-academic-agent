@@ -94,3 +94,20 @@ __________. Métodos e técnicas de pesquisa social. São Paulo: Atlas, 2009.
 - Do NOT use numbered lists or bullet points
 - Do NOT mix citation styles (APA, Vancouver, etc.) — use ABNT throughout
 - Do NOT forget online sources need an access date
+
+---
+
+## Institution-Specific Overrides
+
+> Applied by `/format` on 2026-04-19. Source: `docs/normas_modelo_trabalho_academico.pdf` (UFPR SiBi, 2018)
+
+- Title "REFERÊNCIAS": font 12, uppercase, bold, centered, 1.5 spacing, **no section number**
+- Entries: font 12, left-aligned to left margin, single spacing within each reference
+- Blank line between entries: single spacing (espaçamento simples)
+- Alphabetical order by first element (author last name or institution name)
+- Book and journal titles: in **bold** *(ABNT requirement confirmed by UFPR model)*
+- Online documents format: `Disponível em: <URL>. Acesso em: DD mês. Ano.`
+- Same author, multiple works with same year: add lowercase letter — (2005a), (2005b)
+- Corporate/government works: begin with jurisdiction — "BRASIL. Ministério do Trabalho. **Title**. ..."
+- For references to conference proceedings (anais): include event number, year, city; use "Anais..." in bold
+- Consulte exemplos de referências em: portal.ufpr.br/normalizacao
